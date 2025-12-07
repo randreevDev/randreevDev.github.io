@@ -1,5 +1,5 @@
 +++ 
-draft = true
+draft = false
 date = 2025-12-07T01:50:10+03:00
 title = "TEST"
 description = "TEST"
@@ -19,3 +19,5 @@ func main() {
 }
 
 ```
+
+Test
